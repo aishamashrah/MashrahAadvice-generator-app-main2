@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/502e12ac-37d0-467c-9bcd-06b88f062d74/resourceGroups/AzureResourceGroup/providers/Microsoft.Web/sites/AzureAisha",
+    "appService.deploySubpath": "generator/build"
+}
